@@ -58,4 +58,12 @@ npm start
 http://localhost:3000/
 ```
 
+veremos algo asi:
+### Home
+![image](https://github.com/user-attachments/assets/43f814a6-016a-4721-8dc7-f84d17ca6ce1)
+aca se veran todos los usuarios que esten creados en la tabla y cada usuario tendra un boton para eliminar y actualizar
+### Crear Usuario
+![image](https://github.com/user-attachments/assets/c4c07475-7512-4734-ba66-3114e9293e26)
+
+
 
